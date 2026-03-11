@@ -4,7 +4,7 @@
   "description": "Advanced Claude Code CLI toolkit - agents, hooks, skills, MCP servers, phased development, and GitHub integration",
   "main": "src/index.js",
   "bin": {
-    "iflow-mcp-evan043-claude-cli-advanced-starter-pack": "./bin/gtask.js"
+    "ccasp-site-intel": "./src/site-intel/mcp-server.js"
   },
   "type": "module",
   "scripts": {
