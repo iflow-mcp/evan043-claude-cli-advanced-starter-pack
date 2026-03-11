@@ -1,13 +1,10 @@
 {
-  "name": "claude-cli-advanced-starter-pack",
+  "name": "@iflow-mcp/evan043-claude-cli-advanced-starter-pack",
   "version": "2.11.7",
   "description": "Advanced Claude Code CLI toolkit - agents, hooks, skills, MCP servers, phased development, and GitHub integration",
   "main": "src/index.js",
   "bin": {
-    "ccasp": "./bin/gtask.js",
-    "claude-advanced": "./bin/gtask.js",
-    "claude-cli-advanced-starter-pack": "./bin/gtask.js",
-    "ccasp-neovide": "./bin/ccasp-neovide.bat"
+    "iflow-mcp-evan043-claude-cli-advanced-starter-pack": "./bin/gtask.js"
   },
   "type": "module",
   "scripts": {
